@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Anthony 👋
 
-<!--
-**apburton84/apburton84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Solution orientated, pragmatic and delivery focussed **Data Scientist**. 
 
-Here are some ideas to get you started:
+❤️ Passionate about Statistical **Modelling, Machine Learning and Software Development.** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧮 Pursuing data science and machine learning roles in the **FinTech, EdTech and Health Care sectors**. 
+
+- 🔭 I’m currently working as a
+  - Data Scientist [@payzilch]() as a memeber of the Data & Risk team.
+- 🌱 I’m currently interested in ... 
+  - All things data: Big Data, Cloud, Machine Learning and Data Science
+  - Music Instruments: MPC, Octatrack & SP-404
+  - Sport Statistics | Shout out to [@FiveThirtyEight](https://twitter.com/FiveThirtyEight)
+  - 🧗‍♂️ Rock climbing, 🛹 Roller Blading & Squash 🎾
+- ⚡ Fun fact: The CIA headquarters has its own Starbucks, but baristas don’t write names on the cups
