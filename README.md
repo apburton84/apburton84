@@ -1,16 +1,30 @@
-### Hi there, I'm Anthony 👋
+### Hey, I'm Anthony 👋
+---
 
 🔧 Solution orientated, pragmatic and delivery focussed **Data Scientist**. 
 
-❤️ Passionate about Statistical **Modelling, Machine Learning and Software Development.** 
+❤️ Passionate about Statistical **Modelling, Machine Learning and Software Development**. 
 
 🧮 Pursuing data science and machine learning roles in the **FinTech, EdTech and Health Care sectors**. 
 
 - 🔭 I’m currently working as a
-  - Data Scientist [@payzilch]() as a memeber of the Data & Risk team.
+  - Data Scientist [@payzilch](https://twitter.com/payzilch?lang=en) as a memeber of the Data & Risk team.
 - 🌱 I’m currently interested in ... 
   - All things data: Big Data, Cloud, Machine Learning and Data Science
   - Music Instruments: MPC, Octatrack & SP-404
   - Sport Statistics | Shout out to [@FiveThirtyEight](https://twitter.com/FiveThirtyEight)
   - 🧗‍♂️ Rock climbing, 🛹 Roller Blading & Squash 🎾
 - ⚡ Fun fact: The CIA headquarters has its own Starbucks, but baristas don’t write names on the cups
+
+### 🛠️ Technologies
+---
+
+### 🔮 Read my thoughts
+---
+
+- 📖 [my blog](https://apburton84.github.io/)
+
+### 🔍 Where to find me
+---
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/antburton)
