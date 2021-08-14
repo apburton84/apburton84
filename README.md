@@ -1,6 +1,8 @@
 ### Hey, I'm Anthony 👋
 ---
 
+ [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/antburton)
+
 🔧 Solution orientated, pragmatic and delivery focussed **Data Scientist**. 
 
 ❤️ Passionate about **Statistical Modelling, Machine Learning and Software Development**. 
@@ -48,8 +50,3 @@ BDD, TDD, CI/CD, ETL, Data Pipelines, Kimbel, Open API, PEP-8
 ---
 
 - 📖 [my blog](https://apburton84.github.io/)
-
-### 🔍 Where to find me
----
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/antburton)
