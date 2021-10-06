@@ -5,7 +5,7 @@
 
 🔧 Solution orientated, pragmatic and delivery focussed **Data Scientist**. 
 
-❤️ Passionate about **Statistical Modelling, Machine Learning and Software Development**. 
+❤️ Passionate about **Statistical Modelling, Machine Learning and Data Engineering**. 
 
 🧮 Pursuing data science and machine learning roles in the **FinTech, EdTech and Health Care sectors**. 
 
