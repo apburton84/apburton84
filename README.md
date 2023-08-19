@@ -10,7 +10,9 @@
 🧮 Pursuing data science and machine learning roles in the **FinTech, EdTech and Health Care sectors**. 
 
 - 🔭 I’m currently working as a
-  - Data Scientist [@payzilch](https://twitter.com/payzilch?lang=en) as a memeber of the Data & Risk team.
+  - Data Sorcerer 🧙‍♂️ | Unleashing powerful insights as Lead Data Scientist @EG, transforming the world of commercial real estate. 🏢🔍 Let's make data magic! ✨
+- Previously
+  - Data Scientist [@payzilch](https://twitter.com/payzilch?lang=en) as a member of the Data & Risk team.
 - 🌱 I’m currently interested in ... 
   - All things data: Big Data, Cloud, Machine Learning and Data Science
   - Music Instruments: MPC, Octatrack & SP-404
