@@ -31,7 +31,7 @@ Pandas, Numpy, SciPy, SciKit Learn, Ipython, Conda, Juypter Lab
 Looker, Redash, Matplotlib, Seaborn, Kibana
 
 #### Code
-Python, Ruby, PHP
+Python, Rust, Ruby, PHP
 
 #### Frameworks
 Pyramid, Flask, FastApi, Django
