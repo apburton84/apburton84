@@ -9,8 +9,10 @@
 
 🧮 Pursuing data science and machine learning roles in the **FinTech, EdTech and Health Care sectors**. 
 
+Data Sorcerer 🧙‍♂️
+
 - 🔭 I’m currently working as a
-  - Data Sorcerer 🧙‍♂️ | Unleashing powerful insights as Lead Data Scientist @EG, transforming the world of commercial real estate. 🏢🔍 Let's make data magic! ✨
+  -  Lead Data Scientist @EG, transforming the world of commercial real estate. 🏢🔍 Let's make data magic! ✨
 - Previously
   - Data Scientist [@payzilch](https://twitter.com/payzilch?lang=en) as a member of the Data & Risk team.
 - 🌱 I’m currently interested in ... 
