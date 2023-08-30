@@ -22,6 +22,16 @@ Data Sorcerer 🧙‍♂️ ~ Let's make data magic! ✨
   - 🧗‍♂️ Rock climbing, 🛹 Roller Blading & Squash 🎾
 - ⚡ Fun fact: The CIA headquarters has its own Starbucks, but baristas don’t write names on the cups
 
+### Things I've done and do...
+
+- Led a team of data scientists, overseeing their professional development, project assignments, and performance evaluations.
+- Developed and implemented the data science strategy, aligning it with business goals and objectives in the commercial property industry.
+- Managed end-to-end execution of data science projects, ensuring adherence to timelines, budgets, and quality standards.
+- Collaborated with cross-functional teams to identify data-driven opportunities, understand requirements, and align initiatives with business needs.
+- Applied advanced analytics techniques, including machine learning, statistical modelling, and predictive analytics, to extract insights from complex data sets.
+- Presented data-driven insights and recommendations to senior management and stakeholders, influencing strategic decision-making and business outcomes.
+- Fostered a culture of innovation and continuous learning within the team, organizing knowledge-sharing sessions and encouraging professional growth.
+
 ### 🛠️ Technologies
 ---
 
