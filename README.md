@@ -12,7 +12,7 @@
 Data Sorcerer 🧙‍♂️ ~ Let's make data magic! ✨
 
 - 🔭 I’m currently working as a
-  -  Lead Data Scientist @EG, transforming the world of commercial real estate.
+  -  Lead Data Scientist @EG ~ on a mission to transform the world of commercial real estate.
 - Previously
   - Data Scientist [@payzilch](https://twitter.com/payzilch?lang=en) as a member of the Data & Risk team.
 - 🌱 I’m currently interested in ... 
